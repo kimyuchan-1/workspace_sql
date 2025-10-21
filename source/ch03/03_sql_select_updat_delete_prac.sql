@@ -30,3 +30,5 @@ DELETE FROM madang3.book
 WHERE bookid = 11;
 
 select * from book;
+
+
